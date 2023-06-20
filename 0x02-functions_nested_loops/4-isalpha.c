@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _isalpha - function for  checking c 
+ * _isalpha - function for checking c
  * @c: int for the argument
  * Return: 0
  */
